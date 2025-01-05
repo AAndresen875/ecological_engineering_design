@@ -23,6 +23,7 @@
 * [European Space Agency WorldCover at 10m resolution](https://esa-worldcover.org/en)
 * [USA - USGS National Land Cover Database](https://www.usgs.gov/centers/eros/science/national-land-cover-database)
 * [ESPA Land Cover Map](https://waterdata.iwmi.org/applications/espa/)
+* [Biological & Chemical Oceanography Data Management Office](https://guide.bco-dmo.org/access-and-reuse#bco-dmo-api)
 
 # Rain and Weather:
 * [MET Weather API](https://api.met.no/weatherapi/documentation)
@@ -49,3 +50,4 @@
 * [IPCC Datasets](https://ipcc-browser.ipcc-data.org/browser/search)
 * [World Data Center for Climate](https://www.wdc-climate.de/ui/)
 * [EPA - Environmental Dataset Gatewway](https://www.epa.gov/data/environmental-dataset-gateway)
+* [Pacific Northwest National Lab DataHub](https://data.pnnl.gov/)

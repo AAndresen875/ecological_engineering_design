@@ -1,3 +1,7 @@
+# Nature Based Solutions Toolkits:
+* [Nature Based Solutions Knowledge Hub](https://nbshub.naturebasedsolutionsinitiative.org/monitoring-tool/)
+* [CA Reforestation Toolshed](https://reforestationtoolshed.com/)
+
 # DEM & LIDAR: ([difference between lidar and DEM](https://www.usgs.gov/faqs/what-difference-between-lidar-data-and-digital-elevation-model-dem))
 * [USGS](https://earthexplorer.usgs.gov/)
 * [NASA](https://asterweb.jpl.nasa.gov/gdem.asp)  (30m resolution); 
@@ -28,6 +32,14 @@
 
 # Mycology:
 * [SPUN underground atlas](https://www.spun.earth/underground-atlas/mycorrhizal-biodiversity)
+* [Mycology Collections Portal](https://mycoportal.org/portal/index.php)
+* [MycoLab repo](https://github.com/mycolab/mycolab?tab=readme-ov-file)
+* [Mushroom identifier package pypi](https://pypi.org/project/kindwise-api-client/)
+    * [Website](https://www.kindwise.com/mushroom-id)
+* [Mushroom identifier](https://documenter.getpostman.com/view/3802128/2s93kz55EY)
+* [Mushroom identifier alternative](https://www.postman.com/winter-shadow-932363/kindwise/documentation/v0zjupf/mushroom-id)
+* [Example project for building a mushroom identifying app](https://ai.plainenglish.io/unlocking-mushroom-mysteries-with-python-6d5aeb82548c)
+
 
 # Rain and Weather:
 * [MET Weather API](https://api.met.no/weatherapi/documentation)
@@ -55,3 +67,4 @@
 * [World Data Center for Climate](https://www.wdc-climate.de/ui/)
 * [EPA - Environmental Dataset Gatewway](https://www.epa.gov/data/environmental-dataset-gateway)
 * [Pacific Northwest National Lab DataHub](https://data.pnnl.gov/)
+* [Antimicrobial potential analyzer](https://github.com/alidahou/Antimicrobial-Analyzer)
